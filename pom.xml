@@ -23,6 +23,7 @@
     <modules>
         <module>switch</module>
         <module>records</module>
+        <module>text-blocks</module>
     </modules>
 
 </project>
